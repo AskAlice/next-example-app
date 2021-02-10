@@ -4,9 +4,7 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start",
-    "predeploy": "npm install && npm run build",
-    "deploy": "sectionctl deploy -a 1887 -i 7749"
+    "start": "next start"
   },
   "dependencies": {
     "next": "latest",
